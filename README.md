@@ -5,7 +5,7 @@ Tengo 23 años, un conejo llamado Sirius, y una afición a consumir contenido re
 
 ### ¿Qué estoy haciendo ahora?
 
-Me quedan 3 semestres de universidad (se supone(?)) para poder titularme, así que la gran mayoría de mi tiempo va destinado a esto.
+Estoy a muy poquito de poder titularme, con mucho tiempo libre y ganas de hacer algo productivo!
 El tiempo que no ocupo en la universidad, lo gasto revisando contenido de programación en diversos lenguajes, al igual que aprendiendo idiomas. Intenté un rato aprender Alemán, pero me aburrió, así que hoy estoy aprendiendo Chino Mandarín!
 El otro poquito tiempo que me queda, lo gasto en videojuegos y manga, como hobby.
 
