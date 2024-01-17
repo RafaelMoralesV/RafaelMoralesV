@@ -3,12 +3,8 @@
 Soy Rafael Morales. Estudiante de Ing. Civil en Informática en la UTEM.
 Tengo 24 años, un conejo llamado Sirius, y una afición a consumir contenido relacionado a la programación todo el día (Youtube no me deja en paz con los videos de Laravel y Rust lol).
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=RafaelMoralesV&show_icons=true&theme=dracula" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelMoralesV&layout=compact&theme=dracula&langs_count=8" />
-</a>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=RafaelMoralesV&show_icons=true&theme=catppuccin_mocha" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelMoralesV&layout=compact&theme=catppuccin_mocha&langs_count=8&hide=TeX,Jupyter%20Notebook" />
 
 ### ¿Qué estoy haciendo ahora?
 
