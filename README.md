@@ -8,7 +8,7 @@ Tengo 24 años, un conejo llamado Sirius, y una afición a consumir contenido re
 
 ### ¿Qué estoy haciendo ahora?
 
-Actualmente estoy recién titulado. Fuera de mis proyectos laborales estoy trabajando aún en cositas variadas con el [Club de Desarrollo Experimental](github.com/exdevutem)
+Actualmente estoy recién titulado. Fuera de mis proyectos laborales estoy trabajando aún en cositas variadas con el [Club de Desarrollo Experimental](https://github.com/exdevutem)
 
 ### ¿Que lenguajes de programación domino?
 
